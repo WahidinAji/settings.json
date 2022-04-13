@@ -1,0 +1,74 @@
+{
+  "php.suggest.basic": false,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fastScrollSensitivity": 10,
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 25,
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.mouseWheelZoom": true,
+"intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "explorer.openEditors.visible": 0,
+  "explorer.confirmDelete": false,
+  "workbench.tree.indent": 5,
+  "files.autoSave": "afterDelay",
+  "git.autofetch": true,
+  "editor.minimap.maxColumn": 80,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.enableSmartCommit": true,
+  "go.formatTool": "goimports",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "stories.username": "hippopotamus_Shmi Skywalker",
+  "editor.renderWhitespace": "trailing",
+  "blade.newLine": false,
+  "explorer.confirmDragAndDrop": false,
+  "kite.showWelcomeNotificationOnStartup": false,
+  // "php.executablePath": "/opt/lampp/bin/php-7.4.14",
+  "php.executablePath": "C:/laragon/bin/php/php-7.4.16-Win32-vc15-x64",
+  "settingsSync.ignoredExtensions": [
+  
+  ],
+  "settingsSync.ignoredSettings": [
+  
+  ],
+  "prettier.printWidth": 200,
+"editor.minimap.showSlider": "always",
+"workbench.preferredDarkColorTheme": "Visual Studio Dark",
+"editor.formatOnSave": true,
+"phpstormFormatter.ideBinPath": "",
+"phpstormFormatter.styleGuidePath": "",
+"editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+"workbench.colorTheme": "Monokai",
+"workbench.iconTheme": "material-icon-theme",
+"prettier.tabWidth": 4,
+"go.toolsManagement.autoUpdate": true,
+"editor.wordWrap": "on",
+"tabnine.experimentalAutoImports": true,
+"github.copilot.enable": {
+  "*": true,
+  "yaml": false,
+  "plaintext": false,
+  "markdown": false,
+  "go": true
+},
+"bracketPairColorizer.depreciation-notice": false,
+"editor.inlineSuggest.enabled": true,
+"[go]": {
+  "editor.defaultFormatter": "golang.go"
+},
+"window.titleBarStyle": "custom",
+"[blade]": {
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "shufo.vscode-blade-formatter",
+  "editor.formatOnSave": true,
+},
+"files.associations": {
+  "*.php": "php"
+},
+"beautify.ignore": "",
+"window.zoomLevel": -1
+}
